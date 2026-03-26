@@ -1,0 +1,6 @@
+{
+    "prompt": "A hyper-realistic photograph of a tailor’s workshop. A mannequin is wearing an extremely bizarre, overly complex suit that perfectly matches a twisted, unnatural body posture. Nearby, a normal standing person tries to wear the same suit, but it fits terribly and looks distorted. The room contains sewing tools, fabrics, and measuring tapes scattered around. Natural lighting, cinematic composition, high detail, 4k, realistic textures. Negative prompt: text, labels, diagrams, symbols, charts, writing, watermark",
+    "model": "DALL·E 3",
+    "concept": "overfitting",
+    "metaphor": "A suit tailored perfectly for one unnatural pose fails to fit a normal stance, showing over-specialization and poor generalization."
+}
